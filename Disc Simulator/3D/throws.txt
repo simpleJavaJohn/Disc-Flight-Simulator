@@ -1,0 +1,6 @@
+name        vel     alph    phi     dgam
+flat        20.     10.      0.      0.
+heizer      20.     10.      15.     0.
+veryHeizer  20.     10.      30.     0.
+anheizer    20.     10.      -15.    0.
+veryAnheizer 20.    10.      -30.    0.
